@@ -6,6 +6,8 @@ h1 {
 
 body {
     background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
 }
 
 h2 {
@@ -17,9 +19,33 @@ h2 {
 #il {
     width: 25%;
     margin-left: 40%;
+    
 }
 
 #ul {
     width: 25%;
     margin-left: 40%;
+}
+
+#al {
+    width: 25%;
+    margin-left: 40%;
+}
+
+h3 {
+    color: white;
+    font-size: 100%;
+    text-align: center;
+}
+
+p {
+    color: chocolate;
+    font-size: 200%;
+    text-align: center;
+}
+
+h4 {
+    color: blueviolet;
+    font-size: 300%;
+    text-align: center;
 }
